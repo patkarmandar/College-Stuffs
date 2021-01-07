@@ -1,4 +1,3 @@
-
 // Spells each digit of no
 
 #include <stdio.h>

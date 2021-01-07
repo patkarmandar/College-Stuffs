@@ -1,4 +1,3 @@
-
 // Binary Search Algorithm in C++ : Array should be sorted to implement binary search
 
 #include<iostream>

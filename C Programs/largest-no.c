@@ -1,4 +1,3 @@
-
 // print largest no in array of numbers.
 
 #include <stdio.h>

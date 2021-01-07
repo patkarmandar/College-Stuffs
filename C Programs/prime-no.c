@@ -1,4 +1,3 @@
-
 // check if no is prime or not.
 
 #include <stdio.h>

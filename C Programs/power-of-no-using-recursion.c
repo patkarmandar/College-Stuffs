@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int getPower(int b,int p){

@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int sumDigits(int n){

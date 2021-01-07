@@ -1,4 +1,3 @@
-
 // Seven different types of patterns using C++
 
 #include <iostream>

@@ -1,4 +1,3 @@
-
 // Armstrong number of n digits is integer such that sum of nth power of its each digits is equal to the number itself.
 
 #include <stdio.h>

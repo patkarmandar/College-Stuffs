@@ -1,4 +1,3 @@
-
 // Convert decimal no to binary
 
 #include <stdio.h>

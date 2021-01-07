@@ -1,4 +1,3 @@
-
 // Calculate factorial ie product of natural no from 1 to n (where n is input).
 
 #include <stdio.h>

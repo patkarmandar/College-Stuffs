@@ -1,4 +1,3 @@
-
 // Sum & product of digits of number.
 
 #include <stdio.h>

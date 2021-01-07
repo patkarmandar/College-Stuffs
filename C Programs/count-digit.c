@@ -1,4 +1,3 @@
-
 // Count no of digit in number.
 
 #include <stdio.h>

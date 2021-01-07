@@ -1,4 +1,3 @@
-
 // Palindrome no is such that reverse of it is equal to no itself.
 
 #include <stdio.h>

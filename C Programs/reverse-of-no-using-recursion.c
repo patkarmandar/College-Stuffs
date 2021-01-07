@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 
 int rev(int n){

@@ -1,4 +1,3 @@
-
 // series of no of which first digit is 0, second digit is 2, next n digits are sum of 2 previus no.
 
 #include <stdio.h>

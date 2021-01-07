@@ -1,4 +1,3 @@
-
 // Selection Sort Algorithm in C++ : Selecting smallest element & swap with other then storing location of min
 
 #include<iostream>

@@ -1,4 +1,3 @@
-
 // Swapping of two no without using third or temporary variable.
 
 #include <stdio.h>

@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 // Recursive approach of Euclidean Algorithm to find GCD of two numbers -

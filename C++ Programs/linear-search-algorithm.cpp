@@ -1,4 +1,3 @@
-
 // Linear Search Algorithm using C++
 
 #include<iostream>
