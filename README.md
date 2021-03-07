@@ -1,2 +1,2 @@
 # College-Stuffs
-College experiments and projects
+College experiments and projects.
